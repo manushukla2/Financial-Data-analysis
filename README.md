@@ -1,5 +1,5 @@
 # Exploratory Data Analysis: Customer Loans in Finance
-By **Joel Sud**
+By **Manu Shukla**
 ## Table of Contents:
 - [Description](#description)
     - [Key Insights](#key-insights)
