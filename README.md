@@ -42,7 +42,7 @@ Here are some of the key insights from the EDA process:
 - in your CLI go to the location where you wish to clone your directory.
 - Type the following '***git clone***' command with the '*HTTPS*' URL:
 
-***<p style="text-align: center;">git clone https://github.com/joelsud18/exploratory-data-analysis---customer-loans-in-finance.git***</p>
+***<p style="text-align: center;">git clone https://github.com/manushukla2/Financial-Data-analysis.git***</p>
 
 - Press 'Enter'.
 
